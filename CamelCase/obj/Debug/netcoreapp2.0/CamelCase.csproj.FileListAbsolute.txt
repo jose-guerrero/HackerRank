@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/CamelCase/bin/Debug/netcoreapp2.0/CamelCase.deps.json
+/Users/joseguerrero/Projects/hackerrank/CamelCase/bin/Debug/netcoreapp2.0/CamelCase.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/CamelCase/bin/Debug/netcoreapp2.0/CamelCase.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/CamelCase/bin/Debug/netcoreapp2.0/CamelCase.dll
+/Users/joseguerrero/Projects/hackerrank/CamelCase/bin/Debug/netcoreapp2.0/CamelCase.pdb
+/Users/joseguerrero/Projects/hackerrank/CamelCase/obj/Debug/netcoreapp2.0/CamelCase.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/CamelCase/obj/Debug/netcoreapp2.0/CamelCase.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/CamelCase/obj/Debug/netcoreapp2.0/CamelCase.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/CamelCase/obj/Debug/netcoreapp2.0/CamelCase.dll
+/Users/joseguerrero/Projects/hackerrank/CamelCase/obj/Debug/netcoreapp2.0/CamelCase.pdb
