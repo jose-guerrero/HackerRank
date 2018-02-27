@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/bin/Debug/netcoreapp2.0/Simple_Array_Sum.deps.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/bin/Debug/netcoreapp2.0/Simple_Array_Sum.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/bin/Debug/netcoreapp2.0/Simple_Array_Sum.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/bin/Debug/netcoreapp2.0/Simple_Array_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/bin/Debug/netcoreapp2.0/Simple_Array_Sum.pdb
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/obj/Debug/netcoreapp2.0/Simple_Array_Sum.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/obj/Debug/netcoreapp2.0/Simple_Array_Sum.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/obj/Debug/netcoreapp2.0/Simple_Array_Sum.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/obj/Debug/netcoreapp2.0/Simple_Array_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Simple_Array_Sum/obj/Debug/netcoreapp2.0/Simple_Array_Sum.pdb
