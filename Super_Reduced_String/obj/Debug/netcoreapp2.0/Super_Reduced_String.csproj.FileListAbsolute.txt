@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/bin/Debug/netcoreapp2.0/Super_Reduced_String.deps.json
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/bin/Debug/netcoreapp2.0/Super_Reduced_String.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/bin/Debug/netcoreapp2.0/Super_Reduced_String.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/bin/Debug/netcoreapp2.0/Super_Reduced_String.dll
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/bin/Debug/netcoreapp2.0/Super_Reduced_String.pdb
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/obj/Debug/netcoreapp2.0/Super_Reduced_String.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/obj/Debug/netcoreapp2.0/Super_Reduced_String.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/obj/Debug/netcoreapp2.0/Super_Reduced_String.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/obj/Debug/netcoreapp2.0/Super_Reduced_String.dll
+/Users/joseguerrero/Projects/hackerrank/Super_Reduced_String/obj/Debug/netcoreapp2.0/Super_Reduced_String.pdb
