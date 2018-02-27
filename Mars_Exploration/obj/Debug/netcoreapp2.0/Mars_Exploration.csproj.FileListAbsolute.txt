@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/bin/Debug/netcoreapp2.0/Mars_Exploration.deps.json
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/bin/Debug/netcoreapp2.0/Mars_Exploration.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/bin/Debug/netcoreapp2.0/Mars_Exploration.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/bin/Debug/netcoreapp2.0/Mars_Exploration.dll
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/bin/Debug/netcoreapp2.0/Mars_Exploration.pdb
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/obj/Debug/netcoreapp2.0/Mars_Exploration.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/obj/Debug/netcoreapp2.0/Mars_Exploration.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/obj/Debug/netcoreapp2.0/Mars_Exploration.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/obj/Debug/netcoreapp2.0/Mars_Exploration.dll
+/Users/joseguerrero/Projects/hackerrank/Mars_Exploration/obj/Debug/netcoreapp2.0/Mars_Exploration.pdb

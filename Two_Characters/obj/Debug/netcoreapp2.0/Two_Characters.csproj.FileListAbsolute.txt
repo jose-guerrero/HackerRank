@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/bin/Debug/netcoreapp2.0/Two_Characters.deps.json
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/bin/Debug/netcoreapp2.0/Two_Characters.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/bin/Debug/netcoreapp2.0/Two_Characters.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/bin/Debug/netcoreapp2.0/Two_Characters.dll
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/bin/Debug/netcoreapp2.0/Two_Characters.pdb
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/obj/Debug/netcoreapp2.0/Two_Characters.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/obj/Debug/netcoreapp2.0/Two_Characters.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/obj/Debug/netcoreapp2.0/Two_Characters.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/obj/Debug/netcoreapp2.0/Two_Characters.dll
+/Users/joseguerrero/Projects/hackerrank/Two_Characters/obj/Debug/netcoreapp2.0/Two_Characters.pdb
