@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/bin/Debug/netcoreapp2.0/Mini-Max_Sum.deps.json
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/bin/Debug/netcoreapp2.0/Mini-Max_Sum.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/bin/Debug/netcoreapp2.0/Mini-Max_Sum.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/bin/Debug/netcoreapp2.0/Mini-Max_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/bin/Debug/netcoreapp2.0/Mini-Max_Sum.pdb
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/obj/Debug/netcoreapp2.0/Mini-Max_Sum.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/obj/Debug/netcoreapp2.0/Mini-Max_Sum.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/obj/Debug/netcoreapp2.0/Mini-Max_Sum.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/obj/Debug/netcoreapp2.0/Mini-Max_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Mini-Max_Sum/obj/Debug/netcoreapp2.0/Mini-Max_Sum.pdb
