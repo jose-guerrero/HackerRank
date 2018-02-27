@@ -9,7 +9,7 @@ class Solution {
 
         for (int i = 0; i < s.Length; i++)
         {
-            if (s[i]-'a'<0)
+            if (s[i]-'a' < 0)
             {
                 cont++;
             }
