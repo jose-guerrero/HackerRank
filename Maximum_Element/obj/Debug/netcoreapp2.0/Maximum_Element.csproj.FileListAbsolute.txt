@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/bin/Debug/netcoreapp2.0/Maximum_Element.deps.json
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/bin/Debug/netcoreapp2.0/Maximum_Element.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/bin/Debug/netcoreapp2.0/Maximum_Element.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/bin/Debug/netcoreapp2.0/Maximum_Element.dll
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/bin/Debug/netcoreapp2.0/Maximum_Element.pdb
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/obj/Debug/netcoreapp2.0/Maximum_Element.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/obj/Debug/netcoreapp2.0/Maximum_Element.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/obj/Debug/netcoreapp2.0/Maximum_Element.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/obj/Debug/netcoreapp2.0/Maximum_Element.dll
+/Users/joseguerrero/Projects/hackerrank/Maximum_Element/obj/Debug/netcoreapp2.0/Maximum_Element.pdb
