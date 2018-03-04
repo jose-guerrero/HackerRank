@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/bin/Debug/netcoreapp2.0/Castle_on_the_grid.deps.json
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/bin/Debug/netcoreapp2.0/Castle_on_the_grid.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/bin/Debug/netcoreapp2.0/Castle_on_the_grid.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/bin/Debug/netcoreapp2.0/Castle_on_the_grid.dll
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/bin/Debug/netcoreapp2.0/Castle_on_the_grid.pdb
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/obj/Debug/netcoreapp2.0/Castle_on_the_grid.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/obj/Debug/netcoreapp2.0/Castle_on_the_grid.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/obj/Debug/netcoreapp2.0/Castle_on_the_grid.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/obj/Debug/netcoreapp2.0/Castle_on_the_grid.dll
+/Users/joseguerrero/Projects/hackerrank/Castle_on_the_grid/obj/Debug/netcoreapp2.0/Castle_on_the_grid.pdb
