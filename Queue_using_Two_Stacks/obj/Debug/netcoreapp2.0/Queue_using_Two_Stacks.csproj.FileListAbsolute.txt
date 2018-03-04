@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/bin/Debug/netcoreapp2.0/Queue_using_Two_Stacks.deps.json
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/bin/Debug/netcoreapp2.0/Queue_using_Two_Stacks.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/bin/Debug/netcoreapp2.0/Queue_using_Two_Stacks.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/bin/Debug/netcoreapp2.0/Queue_using_Two_Stacks.dll
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/bin/Debug/netcoreapp2.0/Queue_using_Two_Stacks.pdb
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/obj/Debug/netcoreapp2.0/Queue_using_Two_Stacks.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/obj/Debug/netcoreapp2.0/Queue_using_Two_Stacks.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/obj/Debug/netcoreapp2.0/Queue_using_Two_Stacks.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/obj/Debug/netcoreapp2.0/Queue_using_Two_Stacks.dll
+/Users/joseguerrero/Projects/hackerrank/Queue_using_Two_Stacks/obj/Debug/netcoreapp2.0/Queue_using_Two_Stacks.pdb
