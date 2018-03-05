@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Staircase/bin/Debug/netcoreapp2.0/Staircase.deps.json
+/Users/joseguerrero/Projects/hackerrank/Staircase/bin/Debug/netcoreapp2.0/Staircase.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Staircase/bin/Debug/netcoreapp2.0/Staircase.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Staircase/bin/Debug/netcoreapp2.0/Staircase.dll
+/Users/joseguerrero/Projects/hackerrank/Staircase/bin/Debug/netcoreapp2.0/Staircase.pdb
+/Users/joseguerrero/Projects/hackerrank/Staircase/obj/Debug/netcoreapp2.0/Staircase.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Staircase/obj/Debug/netcoreapp2.0/Staircase.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Staircase/obj/Debug/netcoreapp2.0/Staircase.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Staircase/obj/Debug/netcoreapp2.0/Staircase.dll
+/Users/joseguerrero/Projects/hackerrank/Staircase/obj/Debug/netcoreapp2.0/Staircase.pdb
