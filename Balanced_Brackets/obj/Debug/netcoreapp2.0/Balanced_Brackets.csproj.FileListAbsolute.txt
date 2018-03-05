@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/bin/Debug/netcoreapp2.0/Balanced_Brackets.deps.json
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/bin/Debug/netcoreapp2.0/Balanced_Brackets.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/bin/Debug/netcoreapp2.0/Balanced_Brackets.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/bin/Debug/netcoreapp2.0/Balanced_Brackets.dll
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/bin/Debug/netcoreapp2.0/Balanced_Brackets.pdb
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/obj/Debug/netcoreapp2.0/Balanced_Brackets.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/obj/Debug/netcoreapp2.0/Balanced_Brackets.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/obj/Debug/netcoreapp2.0/Balanced_Brackets.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/obj/Debug/netcoreapp2.0/Balanced_Brackets.dll
+/Users/joseguerrero/Projects/hackerrank/Balanced_Brackets/obj/Debug/netcoreapp2.0/Balanced_Brackets.pdb
