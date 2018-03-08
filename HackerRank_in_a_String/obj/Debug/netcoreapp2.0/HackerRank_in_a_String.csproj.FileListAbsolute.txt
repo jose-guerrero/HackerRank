@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/bin/Debug/netcoreapp2.0/HackerRank_in_a_String.deps.json
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/bin/Debug/netcoreapp2.0/HackerRank_in_a_String.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/bin/Debug/netcoreapp2.0/HackerRank_in_a_String.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/bin/Debug/netcoreapp2.0/HackerRank_in_a_String.dll
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/bin/Debug/netcoreapp2.0/HackerRank_in_a_String.pdb
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/obj/Debug/netcoreapp2.0/HackerRank_in_a_String.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/obj/Debug/netcoreapp2.0/HackerRank_in_a_String.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/obj/Debug/netcoreapp2.0/HackerRank_in_a_String.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/obj/Debug/netcoreapp2.0/HackerRank_in_a_String.dll
+/Users/joseguerrero/Projects/hackerrank/HackerRank_in_a_String/obj/Debug/netcoreapp2.0/HackerRank_in_a_String.pdb
