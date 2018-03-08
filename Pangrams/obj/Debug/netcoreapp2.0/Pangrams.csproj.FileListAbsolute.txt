@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Pangrams/bin/Debug/netcoreapp2.0/Pangrams.deps.json
+/Users/joseguerrero/Projects/hackerrank/Pangrams/bin/Debug/netcoreapp2.0/Pangrams.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Pangrams/bin/Debug/netcoreapp2.0/Pangrams.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Pangrams/bin/Debug/netcoreapp2.0/Pangrams.dll
+/Users/joseguerrero/Projects/hackerrank/Pangrams/bin/Debug/netcoreapp2.0/Pangrams.pdb
+/Users/joseguerrero/Projects/hackerrank/Pangrams/obj/Debug/netcoreapp2.0/Pangrams.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Pangrams/obj/Debug/netcoreapp2.0/Pangrams.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Pangrams/obj/Debug/netcoreapp2.0/Pangrams.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Pangrams/obj/Debug/netcoreapp2.0/Pangrams.dll
+/Users/joseguerrero/Projects/hackerrank/Pangrams/obj/Debug/netcoreapp2.0/Pangrams.pdb
