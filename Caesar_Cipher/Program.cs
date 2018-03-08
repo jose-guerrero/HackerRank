@@ -13,29 +13,14 @@ class Solution {
             if (char.IsLower(s[i]))
             {
                 int n = (int)s[i];
-                if ((int)(n+k)>(int)'z')
-                {
-                    res.Add((char)(n+k-(int)'z'+(int)'a'-1));
-                }
-                else
-                {
-                    res.Add((char)(n+k));
-                }
+                res.Add((char)(((n+k)-'a')%26 +'a'));
             }
             else
             {
                 if (char.IsUpper(s[i]))
                 {
                     int n = (int)s[i];
-                    if ((int)(n+k)>(int)'Z')
-                    {
-                        res.Add((char)(n+k-(int)'Z'+(int)'A'-1));
-                    }
-                    else
-                    {
-                        res.Add((char)(n+k));
-                    }
-
+                    res.Add((char)(((n+k)-'A')%26 +'A'));
                 }
                 else
                 {
