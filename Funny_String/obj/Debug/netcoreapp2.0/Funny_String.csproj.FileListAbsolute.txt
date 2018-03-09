@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Funny_String/bin/Debug/netcoreapp2.0/Funny_String.deps.json
+/Users/joseguerrero/Projects/hackerrank/Funny_String/bin/Debug/netcoreapp2.0/Funny_String.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Funny_String/bin/Debug/netcoreapp2.0/Funny_String.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Funny_String/bin/Debug/netcoreapp2.0/Funny_String.dll
+/Users/joseguerrero/Projects/hackerrank/Funny_String/bin/Debug/netcoreapp2.0/Funny_String.pdb
+/Users/joseguerrero/Projects/hackerrank/Funny_String/obj/Debug/netcoreapp2.0/Funny_String.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Funny_String/obj/Debug/netcoreapp2.0/Funny_String.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Funny_String/obj/Debug/netcoreapp2.0/Funny_String.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Funny_String/obj/Debug/netcoreapp2.0/Funny_String.dll
+/Users/joseguerrero/Projects/hackerrank/Funny_String/obj/Debug/netcoreapp2.0/Funny_String.pdb
