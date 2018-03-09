@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Gemstones/bin/Debug/netcoreapp2.0/Gemstones.deps.json
+/Users/joseguerrero/Projects/hackerrank/Gemstones/bin/Debug/netcoreapp2.0/Gemstones.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Gemstones/bin/Debug/netcoreapp2.0/Gemstones.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Gemstones/bin/Debug/netcoreapp2.0/Gemstones.dll
+/Users/joseguerrero/Projects/hackerrank/Gemstones/bin/Debug/netcoreapp2.0/Gemstones.pdb
+/Users/joseguerrero/Projects/hackerrank/Gemstones/obj/Debug/netcoreapp2.0/Gemstones.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Gemstones/obj/Debug/netcoreapp2.0/Gemstones.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Gemstones/obj/Debug/netcoreapp2.0/Gemstones.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Gemstones/obj/Debug/netcoreapp2.0/Gemstones.dll
+/Users/joseguerrero/Projects/hackerrank/Gemstones/obj/Debug/netcoreapp2.0/Gemstones.pdb
