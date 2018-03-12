@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/bin/Debug/netcoreapp2.0/Left_Rotation.deps.json
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/bin/Debug/netcoreapp2.0/Left_Rotation.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/bin/Debug/netcoreapp2.0/Left_Rotation.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/bin/Debug/netcoreapp2.0/Left_Rotation.dll
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/bin/Debug/netcoreapp2.0/Left_Rotation.pdb
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/obj/Debug/netcoreapp2.0/Left_Rotation.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/obj/Debug/netcoreapp2.0/Left_Rotation.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/obj/Debug/netcoreapp2.0/Left_Rotation.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/obj/Debug/netcoreapp2.0/Left_Rotation.dll
+/Users/joseguerrero/Projects/hackerrank/Left_Rotation/obj/Debug/netcoreapp2.0/Left_Rotation.pdb
