@@ -4,15 +4,23 @@ using System.IO;
 using System.Linq;
 
 class Solution {
-
-    /*
-     * Complete the gradingStudents function below.
-     */
     static int[] gradingStudents(int[] grades) {
-        /*
-         * Write your code here.
-         */
 
+        for (int i = 0;i<grades.Length;i++)
+        {
+            if (grades[i]<38) continue;
+
+            int num = grades[i],cont = 0;
+
+            while(true){
+                if ((num+cont)%5 == 0) break;
+                if (cont==2) {cont = 0;break;}
+                cont++;
+            }
+            grades[i]+=cont;
+        }
+
+        return grades;
     }
 
     static void Main(string[] args) {
