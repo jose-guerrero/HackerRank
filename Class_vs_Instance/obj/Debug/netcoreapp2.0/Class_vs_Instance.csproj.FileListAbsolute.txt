@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/bin/Debug/netcoreapp2.0/Class_vs_Instance.deps.json
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/bin/Debug/netcoreapp2.0/Class_vs_Instance.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/bin/Debug/netcoreapp2.0/Class_vs_Instance.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/bin/Debug/netcoreapp2.0/Class_vs_Instance.dll
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/bin/Debug/netcoreapp2.0/Class_vs_Instance.pdb
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/obj/Debug/netcoreapp2.0/Class_vs_Instance.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/obj/Debug/netcoreapp2.0/Class_vs_Instance.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/obj/Debug/netcoreapp2.0/Class_vs_Instance.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/obj/Debug/netcoreapp2.0/Class_vs_Instance.dll
+/Users/joseguerrero/Projects/hackerrank/Class_vs_Instance/obj/Debug/netcoreapp2.0/Class_vs_Instance.pdb
