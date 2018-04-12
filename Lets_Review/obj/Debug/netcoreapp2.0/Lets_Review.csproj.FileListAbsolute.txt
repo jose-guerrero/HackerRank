@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/bin/Debug/netcoreapp2.0/Lets_Review.deps.json
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/bin/Debug/netcoreapp2.0/Lets_Review.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/bin/Debug/netcoreapp2.0/Lets_Review.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/bin/Debug/netcoreapp2.0/Lets_Review.dll
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/bin/Debug/netcoreapp2.0/Lets_Review.pdb
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/obj/Debug/netcoreapp2.0/Lets_Review.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/obj/Debug/netcoreapp2.0/Lets_Review.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/obj/Debug/netcoreapp2.0/Lets_Review.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/obj/Debug/netcoreapp2.0/Lets_Review.dll
+/Users/joseguerrero/Projects/hackerrank/Lets_Review/obj/Debug/netcoreapp2.0/Lets_Review.pdb
