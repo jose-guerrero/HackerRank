@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/bin/Debug/netcoreapp2.0/Dictionaries_and_Maps.deps.json
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/bin/Debug/netcoreapp2.0/Dictionaries_and_Maps.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/bin/Debug/netcoreapp2.0/Dictionaries_and_Maps.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/bin/Debug/netcoreapp2.0/Dictionaries_and_Maps.dll
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/bin/Debug/netcoreapp2.0/Dictionaries_and_Maps.pdb
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/obj/Debug/netcoreapp2.0/Dictionaries_and_Maps.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/obj/Debug/netcoreapp2.0/Dictionaries_and_Maps.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/obj/Debug/netcoreapp2.0/Dictionaries_and_Maps.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/obj/Debug/netcoreapp2.0/Dictionaries_and_Maps.dll
+/Users/joseguerrero/Projects/hackerrank/Dictionaries_and_Maps/obj/Debug/netcoreapp2.0/Dictionaries_and_Maps.pdb

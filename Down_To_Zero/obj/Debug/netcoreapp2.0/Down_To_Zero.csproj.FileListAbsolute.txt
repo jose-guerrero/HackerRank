@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/bin/Debug/netcoreapp2.0/Down_To_Zero.deps.json
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/bin/Debug/netcoreapp2.0/Down_To_Zero.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/bin/Debug/netcoreapp2.0/Down_To_Zero.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/bin/Debug/netcoreapp2.0/Down_To_Zero.dll
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/bin/Debug/netcoreapp2.0/Down_To_Zero.pdb
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/obj/Debug/netcoreapp2.0/Down_To_Zero.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/obj/Debug/netcoreapp2.0/Down_To_Zero.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/obj/Debug/netcoreapp2.0/Down_To_Zero.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/obj/Debug/netcoreapp2.0/Down_To_Zero.dll
+/Users/joseguerrero/Projects/hackerrank/Down_To_Zero/obj/Debug/netcoreapp2.0/Down_To_Zero.pdb
