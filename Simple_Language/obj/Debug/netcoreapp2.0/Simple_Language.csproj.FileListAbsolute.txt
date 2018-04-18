@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/bin/Debug/netcoreapp2.0/Simple_Language.deps.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/bin/Debug/netcoreapp2.0/Simple_Language.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/bin/Debug/netcoreapp2.0/Simple_Language.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/bin/Debug/netcoreapp2.0/Simple_Language.dll
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/bin/Debug/netcoreapp2.0/Simple_Language.pdb
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/obj/Debug/netcoreapp2.0/Simple_Language.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/obj/Debug/netcoreapp2.0/Simple_Language.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/obj/Debug/netcoreapp2.0/Simple_Language.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/obj/Debug/netcoreapp2.0/Simple_Language.dll
+/Users/joseguerrero/Projects/hackerrank/Simple_Language/obj/Debug/netcoreapp2.0/Simple_Language.pdb
