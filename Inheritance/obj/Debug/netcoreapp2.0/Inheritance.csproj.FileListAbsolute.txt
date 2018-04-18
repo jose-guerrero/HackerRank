@@ -1,0 +1,3 @@
+/Users/joseguerrero/Projects/hackerrank/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
