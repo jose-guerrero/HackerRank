@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Scope/bin/Debug/netcoreapp2.0/Scope.deps.json
+/Users/joseguerrero/Projects/hackerrank/Scope/bin/Debug/netcoreapp2.0/Scope.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Scope/bin/Debug/netcoreapp2.0/Scope.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Scope/bin/Debug/netcoreapp2.0/Scope.dll
+/Users/joseguerrero/Projects/hackerrank/Scope/bin/Debug/netcoreapp2.0/Scope.pdb
+/Users/joseguerrero/Projects/hackerrank/Scope/obj/Debug/netcoreapp2.0/Scope.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Scope/obj/Debug/netcoreapp2.0/Scope.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Scope/obj/Debug/netcoreapp2.0/Scope.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Scope/obj/Debug/netcoreapp2.0/Scope.dll
+/Users/joseguerrero/Projects/hackerrank/Scope/obj/Debug/netcoreapp2.0/Scope.pdb
