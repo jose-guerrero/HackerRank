@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/bin/Debug/netcoreapp2.0/Recursive_Digit_Sum.deps.json
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/bin/Debug/netcoreapp2.0/Recursive_Digit_Sum.runtimeconfig.json
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/bin/Debug/netcoreapp2.0/Recursive_Digit_Sum.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/bin/Debug/netcoreapp2.0/Recursive_Digit_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/bin/Debug/netcoreapp2.0/Recursive_Digit_Sum.pdb
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/obj/Debug/netcoreapp2.0/Recursive_Digit_Sum.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/obj/Debug/netcoreapp2.0/Recursive_Digit_Sum.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/obj/Debug/netcoreapp2.0/Recursive_Digit_Sum.AssemblyInfo.cs
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/obj/Debug/netcoreapp2.0/Recursive_Digit_Sum.dll
+/Users/joseguerrero/Projects/hackerrank/Recursive_Digit_Sum/obj/Debug/netcoreapp2.0/Recursive_Digit_Sum.pdb
